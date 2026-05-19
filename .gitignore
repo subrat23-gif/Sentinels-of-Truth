@@ -1,0 +1,25 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Environment variables
+.env
+
+# SQLite database
+claims.db
+
+# Streamlit cache
+.streamlit/
+
+# macOS files
+.DS_Store
+
+# VSCode settings
+.vscode/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
