@@ -322,7 +322,7 @@ graph TD
     
     D --> F
     
-    F[/STRUCTURED VERIFICATION REPORT <br/> • Verdict <br/> • Reasoning <br/> • Confidence/]::data
+    F[/STRUCTURED VERIFICATION REPORT <br/> • Verdict <br/> • Reasoning <br/> • Confidence/]:::data
     F --> G
     
     subgraph Archivist
