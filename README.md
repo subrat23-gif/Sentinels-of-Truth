@@ -291,7 +291,7 @@ This project is intended for educational and research purposes.
 
 Developed as part of the **Sentinels of Truth** Multi-Agent Verification System project.
 
-'''mermaid
+```mermaid
 graph TD
     %% Define Styles
     classDef frontend fill:#e1f5fe,stroke:#0288d1,stroke-width:2px;
@@ -336,5 +336,3 @@ graph TD
     I -->|New Verified Claim| J([INSERTED]):::insert
     I -->|Duplicate Detected| K([DISCARDED]):::discard
     I -->|Contradictory Claim| L([FLAGGED]):::flag
-    '''
-
